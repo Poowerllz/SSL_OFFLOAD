@@ -27,7 +27,7 @@ It will then return to the user the same return as the final URL returns.
 </Br></br>
 //PARAMETERS REQUIRED FOR THE REQUEST:
 </br>https://[host]:[Port]/[URL]
-</br>Header: Must contain the credentials used in the second API.
+</br>Header: Must contain the credentials used in the second API.<br/>[ _username & _password ]
 </br>Body: Must contain the body you want to pass to the second API.
 
 
@@ -60,5 +60,5 @@ Em seguida irá retornar para o usuário o mesmo retorno que a URL final retorna
 </Br></br>
 //PARAMÊTROS NECESSÁRIOS PARA A REQUISIÇÃO:
 </br>https://[host]:[Port]/[URL]
-</br>Header: Deverá conter as credenciais utilizadas na segunda API.
+</br>Header: Deverá conter as credenciais utilizadas na segunda API <br/>[ _username & _password ]
 </br>Body: Deverá conter o body que deseja passar para a segunda API. 
